@@ -1,0 +1,32 @@
+INSERT INTO public.user_master(id, owner, owner_group) VALUES (1, 'brdwhp', 'AZ RE');
+INSERT INTO public.user_master(id, owner, owner_group) VALUES (2, 'tdbpcp', 'AZ RE');
+INSERT INTO public.user_master(id, owner, owner_group) VALUES (3, 'prismp', 'AZ RE');
+INSERT INTO public.user_master(id, owner, owner_group) VALUES (4, 'prism_d', 'AZ RE');
+INSERT INTO public.user_master(id, owner, owner_group) VALUES (5, 'brdwhi', 'AZ RE');
+INSERT INTO public.user_master(id, owner, owner_group) VALUES (6, 'prism', 'AZ RE');
+INSERT INTO public.user_master(id, owner, owner_group) VALUES (7, 'prismi', 'AZ RE');
+INSERT INTO public.user_master(id, owner, owner_group) VALUES (8, 'tdbpci', 'AZ RE');
+INSERT INTO public.user_master(id, owner, owner_group) VALUES (9, 'frdroup', 'Fraud App');
+INSERT INTO public.user_master(id, owner, owner_group) VALUES (10, 'frdautp', 'Fraud App');
+INSERT INTO public.user_master(id, owner, owner_group) VALUES (11, 'frdpolp', 'Fraud App');
+INSERT INTO public.user_master(id, owner, owner_group) VALUES (12, 'bilayeri', 'BI Layer');
+INSERT INTO public.user_master(id, owner, owner_group) VALUES (13, 'azbnld', 'AZ Benelux');
+INSERT INTO public.user_master(id, owner, owner_group) VALUES (14, 'azbngbi', 'AZ Benelux');
+INSERT INTO public.user_master(id, owner, owner_group) VALUES (15, 'azf1bip', 'AZ France');
+INSERT INTO public.user_master(id, owner, owner_group) VALUES (16, 'rmdbp', 'RMDB');
+INSERT INTO public.user_master(id, owner, owner_group) VALUES (17, 'bilayerp', 'BI Layer');
+INSERT INTO public.user_master(id, owner, owner_group) VALUES (18, 'buki', 'BI Layer');
+INSERT INTO public.user_master(id, owner, owner_group) VALUES (19, 'bukp', 'BI Layer');
+INSERT INTO public.user_master(id, owner, owner_group) VALUES (20, 'azbnlp', 'AZ Benelux');
+INSERT INTO public.user_master(id, owner, owner_group) VALUES (21, 'azbngbp', 'AZ Benelux');
+INSERT INTO public.user_master(id, owner, owner_group) VALUES (22, 'kpiprop', 'RMDB');
+INSERT INTO public.user_master(id, owner, owner_group) VALUES (23, 'rmdbd', 'RMDB');
+INSERT INTO public.user_master(id, owner, owner_group) VALUES (24, 'bireruni', 'AZ RE');
+
+
+INSERT INTO public.cost_detail(id, owner_group, price_group, price_per_group)VALUES (1, 'AZ RE', 'inVAT', '0.10');
+INSERT INTO public.cost_detail(id, owner_group, price_group, price_per_group)VALUES (2, 'Fraud App', 'ISC', '0.09');
+INSERT INTO public.cost_detail(id, owner_group, price_group, price_per_group)VALUES (3, 'BI Layer', 'ISC', '0.09');
+INSERT INTO public.cost_detail(id, owner_group, price_group, price_per_group)VALUES (4, 'AZ Benelux', 'exVAT', '0.08');
+INSERT INTO public.cost_detail(id, owner_group, price_group, price_per_group)VALUES (5, 'AZ France', 'exVAT', '0.08');
+INSERT INTO public.cost_detail(id, owner_group, price_group, price_per_group)VALUES (6, 'RMDB', 'ISC', '0.08');

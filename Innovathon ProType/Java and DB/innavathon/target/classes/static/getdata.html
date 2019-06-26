@@ -1,0 +1,105 @@
+<!DOCTYPE html>   
+<html lang="en">   
+<head>   
+<meta charset="utf-8">   
+<title>Billing Details</title>   
+
+<link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">   
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<link rel="stylesheet" href="http://cdn.datatables.net/1.10.2/css/jquery.dataTables.min.css"></style>
+<script type="text/javascript" src="http://cdn.datatables.net/1.10.2/js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+</head>  
+<body style="margin:20px auto">  
+<div class="container">
+<div class="row header" style="text-align:center;color:green">
+<h3>Bootstrap Table With sorting,searching and paging using dataTable.js (Responsive)</h3>
+</div>
+</head>
+
+<body onload="CreateTableFromJSON();" style="margin:20px auto">
+
+
+<script>
+    function CreateTableFromJSON() {
+        var myBooks = [
+            {
+                "Book ID": "1",
+                "Book Name": "Computer Architecture",
+                "Category": "Computers",
+                "Price": "125.60"
+            },
+            {
+                "Book ID": "2",
+                "Book Name": "Asp.Net 4 Blue Book",
+                "Category": "Programming",
+                "Price": "56.00"
+            },
+            {
+                "Book ID": "3",
+                "Book Name": "Popular Science",
+                "Category": "Science",
+                "Price": "210.40"
+            }
+        ]
+
+        // EXTRACT VALUE FOR HTML HEADER. 
+        // ('Book ID', 'Book Name', 'Category' and 'Price')
+        var col = [];
+        for (var i = 0; i < myBooks.length; i++) {
+            for (var key in myBooks[i]) {
+                if (col.indexOf(key) === -1) {
+                    col.push(key);
+                }
+            }
+        }
+
+        // CREATE DYNAMIC TABLE.
+        var table = document.createElement("table");
+        table.id="myTable"
+        table.setAttribute ('class' ,'table table-striped')
+        
+        // CREATE HTML TABLE HEADER ROW USING THE EXTRACTED HEADERS ABOVE.
+        alert('table');    
+        var tr = table.insertRow(-1);                   // TABLE ROW.
+        //var header = table.createTHead();
+
+        for (var i = 0; i < col.length; i++) {
+            var th = document.createElement("th");      // TABLE HEADER.
+            th.innerHTML = col[i];
+            tr.appendChild(th);
+        }
+
+        // ADD JSON DATA TO THE TABLE AS ROWS.
+        for (var i = 0; i < myBooks.length; i++) {
+
+            tr = table.insertRow(-1);
+
+            for (var j = 0; j < col.length; j++) {
+                var tabCell = tr.insertCell(-1);
+                tabCell.innerHTML = myBooks[i][col[j]];
+            }
+        }
+
+        // FINALLY ADD THE NEWLY CREATED TABLE WITH JSON DATA TO A CONTAINER.
+        var divContainer = document.getElementById("showData");
+        divContainer.innerHTML = "";
+        divContainer.appendChild(table);
+        
+       // $(document).ready(function(){
+      //  $('#myTable').dataTable();
+        alert('here');
+    //});
+
+    }
+</script>
+
+<p id="showData"></p>
+</body>
+
+
+<script>
+    
+    </script>
+</html>  
+    

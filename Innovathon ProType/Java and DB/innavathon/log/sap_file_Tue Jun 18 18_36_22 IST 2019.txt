@@ -1,0 +1,441 @@
+AZ RE     brdwhp    JOBS    A30_J_RSCYS12P      managed   Sonderverfahren ITH 1071068180    5    0.5                 19-Apr    
+AZ RE     tdbpcp    JOBS    A30_J_RSCYS26P      managed   Sonderverfahren ITH 1071068180    4939 493.9               19-Apr    
+AZ RE     prismp    JOBS    A30_J_RS2YT01P      managed   Sonderverfahren ITH 1071068180    4413 441.30002           19-Apr    
+AZ RE     brdwhp    JOBS    A30_J_RSCYR31P      managed   Sonderverfahren ITH 1071068180    2    0.2                 19-Apr    
+AZ RE     brdwhp    JOBS    A30_J_RSCYS28P      managed   Sonderverfahren ITH 1071068180    31   3.1000001           19-Apr    
+AZ RE     prismp    JOBS    A30_J_RS2YT02P      managed   Sonderverfahren ITH 1071068180    32   3.2                 19-Apr    
+AZ RE     brdwhp    JOBS    A30_J_RSCYT20P      managed   Sonderverfahren ITH 1071068180    22   2.2                 19-Apr    
+AZ RE     brdwhp    JOBS    A30_J_RGRYG21P      managed   Sonderverfahren ITH 1071068180    21   2.1000001           19-Apr    
+AZ RE     brdwhp    JOBS    A30_J_RSCYR33P      managed   Sonderverfahren ITH 1071068180    1    0.1                 19-Apr    
+AZ RE     brdwhp    JOBS    A30_J_RSCYR42P      managed   Sonderverfahren ITH 1071068180    4    0.4                 19-Apr    
+AZ RE     brdwhp    JOBS    A30_J_RSCYS22P      managed   Sonderverfahren ITH 1071068180    62   6.2000003           19-Apr    
+AZ RE     tdbpcp    JOBS    A30_J_RSCYS27P      managed   Sonderverfahren ITH 1071068180    31   3.1000001           19-Apr    
+AZ RE     brdwhp    JOBS    A30_J_RSCYT25P      managed   Sonderverfahren ITH 1071068180    21   2.1000001           19-Apr    
+AZ RE     brdwhp    JOBS    A30_J_RSCYR34P      managed   Sonderverfahren ITH 1071068180    1    0.1                 19-Apr    
+AZ RE     brdwhp    JOBS    A30_J_RSCYS59P      managed   Sonderverfahren ITH 1071068180    8442 844.2               19-Apr    
+AZ RE     brdwhp    JOBS    A30_J_RSCYR35P      managed   Sonderverfahren ITH 1071068180    1    0.1                 19-Apr    
+AZ RE     brdwhp    JOBS    A30_J_RSCYT31P      managed   Sonderverfahren ITH 1071068180    2    0.2                 19-Apr    
+AZ RE     prism_d   JOBS    A30_J_RS2YT02D      managed   Sonderverfahren ITH 1071068180    32   3.2                 19-Apr    
+AZ RE     brdwhi    JOBS    A30_J_RGRYG21T      managed   Sonderverfahren ITH 1071068180    21   2.1000001           19-Apr    
+AZ RE     prism     JOBS    A30_J_RS2YT02I      managed   Sonderverfahren ITH 1071068180    32   3.2                 19-Apr    
+AZ RE     prismi    JOBS    A30_J_RS2YT01T      managed   Sonderverfahren ITH 1071068180    76   7.6                 19-Apr    
+AZ RE     prismi    JOBS    A30_J_RS2YT01T      managed   Sonderverfahren ITH 1071068180    4121 412.1               19-Apr    
+AZ RE     brdwhi    JOBS    A30_J_RSCYS12T      managed   Sonderverfahren ITH 1071068180    5    0.5                 19-Apr    
+AZ RE     brdwhi    JOBS    A30_J_RSCYT20T      managed   Sonderverfahren ITH 1071068180    2    0.2                 19-Apr    
+AZ RE     tdbpci    JOBS    A30_J_RSCYS26T      managed   Sonderverfahren ITH 1071068180    74   7.4                 19-Apr    
+AZ RE     tdbpci    JOBS    A30_J_RSCYS26T      managed   Sonderverfahren ITH 1071068180    4703 470.30002           19-Apr    
+AZ RE     brdwhi    JOBS    A30_J_RSCYT31T      managed   Sonderverfahren ITH 1071068180    17   1.7                 19-Apr    
+AZ RE     brdwhi    JOBS    A30_J_RSCYT20T      managed   Sonderverfahren ITH 1071068180    1    0.1                 19-Apr    
+AZ RE     brdwhi    JOBS    A30_J_RSCYT20T      managed   Sonderverfahren ITH 1071068180    17   1.7                 19-Apr    
+AZ RE     brdwhi    JOBS    A30_J_RSCYT60T      managed   Sonderverfahren ITH 1071068180    1    0.1                 19-Apr    
+AZ RE     brdwhi    JOBS    A30_J_RSCYT60T      managed   Sonderverfahren ITH 1071068180    20   2.0                 19-Apr    
+AZ RE     brdwhi    JOBS    A30_J_RSCYS22T      managed   Sonderverfahren ITH 1071068180    2    0.2                 19-Apr    
+AZ RE     brdwhi    JOBS    A30_J_RSCYS22T      managed   Sonderverfahren ITH 1071068180    60   6.0                 19-Apr    
+AZ RE     tdbpci    JOBS    A30_J_RSCYS27T      managed   Sonderverfahren ITH 1071068180    31   3.1000001           19-Apr    
+Fraud App frdroup   JOBS    A30_J_ROSCFRDP      managed   Sonderverfahren ITH 1071068180    5    0.45000002          19-Apr    
+Fraud App frdroup   JOBS    A30_J_ROSCFRDP      managed   Sonderverfahren ITH 1071068180    6    0.54                19-Apr    
+AZ RE     brdwhi    JOBS    A30_J_RSCYS28T      managed   Sonderverfahren ITH 1071068180    21   2.1000001           19-Apr    
+AZ RE     brdwhi    JOBS    A30_J_RSCYT25T      managed   Sonderverfahren ITH 1071068180    1    0.1                 19-Apr    
+AZ RE     brdwhi    JOBS    A30_J_RSCYT25T      managed   Sonderverfahren ITH 1071068180    1    0.1                 19-Apr    
+AZ RE     brdwhi    JOBS    A30_J_RSCYT25T      managed   Sonderverfahren ITH 1071068180    18   1.8000001           19-Apr    
+Fraud App frdautp   JOBS    A30_J_ATSCFRDP      managed   Sonderverfahren ITH 1071068180    3    0.27                19-Apr    
+Fraud App frdautp   JOBS    A30_J_ATSCFRDP      managed   Sonderverfahren ITH 1071068180    24   2.16                19-Apr    
+AZ RE     brdwhp    JOBS    A30_J_RSCYT31P      managed   Sonderverfahren ITH 1071068180    40   4.0                 19-Apr    
+Fraud App frdautp   JOBS    A30_J_WRTBCKAT      managed   Sonderverfahren ITH 1071068180    20   1.8000001           19-Apr    
+Fraud App frdpolp   JOBS    A30_J_PLSCFRDP      managed   Sonderverfahren ITH 1071068180    19   1.71                19-Apr    
+AZ RE     brdwhp    JOBS    A30_J_RSCYT60P      managed   Sonderverfahren ITH 1071068180    21   2.1000001           19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2007L11      managed   Sonderverfahren 11201071068180    1    0.09                19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2007L11      managed   Sonderverfahren 11201071068180    30   2.7                 19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2002SIN      managed   Sonderverfahren 11201071068180    4878 439.02002           19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2002WAT      managed   Sonderverfahren 11201071068180    31   2.7900002           19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003CSB      managed   Sonderverfahren 11201071068180    4    0.36                19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003CSB      managed   Sonderverfahren 11201071068180    122  10.9800005          19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003RFS      managed   Sonderverfahren 11201071068180    31   2.7900002           19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003RGS      managed   Sonderverfahren 11201071068180    31   2.7900002           19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003V13      managed   Sonderverfahren 11201071068180    4    0.36                19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003CSV      managed   Sonderverfahren 11201071068180    9    0.81000006          19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003CSV      managed   Sonderverfahren 11201071068180    118  10.620001           19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003V12      managed   Sonderverfahren 11201071068180    4    0.36                19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003V12      managed   Sonderverfahren 11201071068180    43   3.8700001           19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003V19      managed   Sonderverfahren 11201071068180    4    0.36                19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003V19      managed   Sonderverfahren 11201071068180    30   2.7                 19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003V37      managed   Sonderverfahren 11201071068180    4    0.36                19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003V37      managed   Sonderverfahren 11201071068180    30   2.7                 19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2004SW1      managed   Sonderverfahren 11201071068180    180  16.2                19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2004UZS      managed   Sonderverfahren 11201071068180    1    0.09                19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2004UZS      managed   Sonderverfahren 11201071068180    246  22.140001           19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2002TV0      managed   Sonderverfahren 11201071068180    4878 439.02002           19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003B12      managed   Sonderverfahren 11201071068180    31   2.7900002           19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003CSA      managed   Sonderverfahren 11201071068180    4    0.36                19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003CSA      managed   Sonderverfahren 11201071068180    122  10.9800005          19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003DSC      managed   Sonderverfahren 11201071068180    61   5.4900002           19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003HFI      managed   Sonderverfahren 11201071068180    31   2.7900002           19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2007B12      managed   Sonderverfahren 11201071068180    30   2.7                 19-Apr    
+AZ Beneluxazbnld    JOBS    A30_J_BENDWTUF      managed   Sonderverfahren 11201071068180    14   1.12                19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2002ALM      managed   Sonderverfahren 11201071068180    31   2.7900002           19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003S71      managed   Sonderverfahren 11201071068180    4    0.36                19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003S71      managed   Sonderverfahren 11201071068180    32   2.88                19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003S78      managed   Sonderverfahren 11201071068180    4    0.36                19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2002MP6      managed   Sonderverfahren 11201071068180    3432 308.88              19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2002TIN      managed   Sonderverfahren 11201071068180    4826 434.34003           19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2002UZ3      managed   Sonderverfahren 11201071068180    1492 134.28              19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003NFI      managed   Sonderverfahren 11201071068180    1    0.09                19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003NFI      managed   Sonderverfahren 11201071068180    30   2.7                 19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003S72      managed   Sonderverfahren 11201071068180    4    0.36                19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003S72      managed   Sonderverfahren 11201071068180    31   2.7900002           19-Apr    
+AZ Beneluxazbngbi   JOBS    A30_J_BENDWDLU      managed   Sonderverfahren 11201071068180    4    0.32                19-Apr    
+AZ Beneluxazbngbi   JOBS    A30_J_BENDWDLU      managed   Sonderverfahren 11201071068180    3    0.24                19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2002HKI      managed   Sonderverfahren 11201071068180    31   2.7900002           19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003V38      managed   Sonderverfahren 11201071068180    32   2.88                19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2004ST1      managed   Sonderverfahren 11201071068180    930  83.700005           19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2007B13      managed   Sonderverfahren 11201071068180    30   2.7                 19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003V11      managed   Sonderverfahren 11201071068180    1    0.09                19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003V11      managed   Sonderverfahren 11201071068180    31   2.7900002           19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2004LSA      managed   Sonderverfahren 11201071068180    89   8.01                19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003V13      managed   Sonderverfahren 11201071068180    30   2.7                 19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003V16      managed   Sonderverfahren 11201071068180    63   5.67                19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003V31      managed   Sonderverfahren 11201071068180    4    0.36                19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003V31      managed   Sonderverfahren 11201071068180    30   2.7                 19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003S78      managed   Sonderverfahren 11201071068180    33   2.97                19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003SXX      managed   Sonderverfahren 11201071068180    4    0.36                19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003SXX      managed   Sonderverfahren 11201071068180    31   2.7900002           19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003V14      managed   Sonderverfahren 11201071068180    4    0.36                19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003V14      managed   Sonderverfahren 11201071068180    30   2.7                 19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003V17      managed   Sonderverfahren 11201071068180    4    0.36                19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003V17      managed   Sonderverfahren 11201071068180    30   2.7                 19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2004ISP      managed   Sonderverfahren 11201071068180    249  22.410002           19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2004SM1      managed   Sonderverfahren 11201071068180    10   0.90000004          19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2004SSL      managed   Sonderverfahren 11201071068180    89   8.01                19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2004SW2      managed   Sonderverfahren 11201071068180    60   5.4                 19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2002TLL      managed   Sonderverfahren 11201071068180    4878 439.02002           19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2002UZ4      managed   Sonderverfahren 11201071068180    2000 180.0               19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003HZI      managed   Sonderverfahren 11201071068180    31   2.7900002           19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003TBI      managed   Sonderverfahren 11201071068180    1    0.09                19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003TBI      managed   Sonderverfahren 11201071068180    31   2.7900002           19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003V35      managed   Sonderverfahren 11201071068180    4    0.36                19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2003V35      managed   Sonderverfahren 11201071068180    30   2.7                 19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2007B11      managed   Sonderverfahren 11201071068180    30   2.7                 19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2007C11      managed   Sonderverfahren 11201071068180    1    0.09                19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2007C11      managed   Sonderverfahren 11201071068180    30   2.7                 19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR103P      managed   Sonderverfahren 11201071068180    2    0.16                19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR103P      managed   Sonderverfahren 11201071068180    27   2.1599998           19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR122P      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR127P      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR129P      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR150P      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY007A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY00EA      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY100A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY151A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR120P      managed   Sonderverfahren 11201071068180    5    0.39999998          19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR108P      managed   Sonderverfahren 11201071068180    94   7.52                19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR110P      managed   Sonderverfahren 11201071068180    4    0.32                19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR110P      managed   Sonderverfahren 11201071068180    27   2.1599998           19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR124P      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR130P      managed   Sonderverfahren 11201071068180    1    0.08                19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR136P      managed   Sonderverfahren 11201071068180    3    0.24                19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR140P      managed   Sonderverfahren 11201071068180    10   0.79999995          19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR153P      managed   Sonderverfahren 11201071068180    29   2.32                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY001A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY002A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY006A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY008A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY00DA      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY033A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY03SA      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY101A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY107A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY131A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR101P      managed   Sonderverfahren 11201071068180    1    0.08                19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR101P      managed   Sonderverfahren 11201071068180    29   2.32                19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR115P      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR117P      managed   Sonderverfahren 11201071068180    21   1.68                19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR119P      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR135P      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR137P      managed   Sonderverfahren 11201071068180    27   2.1599998           19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR139P      managed   Sonderverfahren 11201071068180    27   2.1599998           19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR142P      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR145P      managed   Sonderverfahren 11201071068180    1    0.08                19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR152P      managed   Sonderverfahren 11201071068180    4    0.32                19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR154P      managed   Sonderverfahren 11201071068180    5    0.39999998          19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY104A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY152A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY201A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY230A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY330A      managed   Sonderverfahren 11201071068180    242  19.359999           19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY331A      managed   Sonderverfahren 11201071068180    4    0.32                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY331A      managed   Sonderverfahren 11201071068180    183  14.639999           19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY352A      managed   Sonderverfahren 11201071068180    4    0.32                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY352A      managed   Sonderverfahren 11201071068180    183  14.639999           19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY50AA      managed   Sonderverfahren 11201071068180    1    0.08                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY530A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY6S0A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY700A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYC03A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYD02A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR123P      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR125P      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR128P      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY030A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY106A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY130A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY13SA      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY150A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY250A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY252A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY54AA      managed   Sonderverfahren 11201071068180    1    0.08                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY590A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY6B0A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY710A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYC01A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR126P      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY003A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY005A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY00AA      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY105A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY200A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY202A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY350A      managed   Sonderverfahren 11201071068180    4    0.32                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY350A      managed   Sonderverfahren 11201071068180    183  14.639999           19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY701A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYBSIA      managed   Sonderverfahren 11201071068180    17   1.36                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYBSIA      managed   Sonderverfahren 11201071068180    738  59.039997           19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYC05A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYD30A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYD50A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYE02A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYE04A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYF03A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYF04A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYF07A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYE06A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYF06A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY206A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY231A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY304A      managed   Sonderverfahren 11201071068180    4    0.32                19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR109P      managed   Sonderverfahren 11201071068180    62   4.96                19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR113P      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR118P      managed   Sonderverfahren 11201071068180    21   1.68                19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR133P      managed   Sonderverfahren 11201071068180    10   0.79999995          19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR133P      managed   Sonderverfahren 11201071068180    21   1.68                19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR138P      managed   Sonderverfahren 11201071068180    34   2.72                19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR143P      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR148P      managed   Sonderverfahren 11201071068180    1    0.08                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY009A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY00BA      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY203A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY205A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY207A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY261A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY302A      managed   Sonderverfahren 11201071068180    4    0.32                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY302A      managed   Sonderverfahren 11201071068180    183  14.639999           19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR141P      managed   Sonderverfahren 11201071068180    23   1.8399999           19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR141P      managed   Sonderverfahren 11201071068180    8    0.64                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY004A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY00CA      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY210A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY260A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY300A      managed   Sonderverfahren 11201071068180    6    0.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY300A      managed   Sonderverfahren 11201071068180    262  20.96               19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY305A      managed   Sonderverfahren 11201071068180    4    0.32                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY305A      managed   Sonderverfahren 11201071068180    183  14.639999           19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY351A      managed   Sonderverfahren 11201071068180    611  48.879997           19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY540A      managed   Sonderverfahren 11201071068180    2    0.16                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY540A      managed   Sonderverfahren 11201071068180    36   2.8799999           19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY59AA      managed   Sonderverfahren 11201071068180    1    0.08                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYC00A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYC04A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYC07A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYD00A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYD07A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYE10A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYE31A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYE51A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYF00A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYF05A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYM6BA      managed   Sonderverfahren 11201071068180    1    0.08                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYMR3A      managed   Sonderverfahren 11201071068180    1    0.08                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYS00A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYS05A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYWR0A      managed   Sonderverfahren 11201071068180    4    0.32                19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2002UZ1      managed   Sonderverfahren 11201071068180    4530 407.7               19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2003DAC      managed   Sonderverfahren 11201071068180    61   5.4900002           19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2003MOP      managed   Sonderverfahren 11201071068180    41   3.69                19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2003P71      managed   Sonderverfahren 11201071068180    32   2.88                19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2003RFP      managed   Sonderverfahren 11201071068180    31   2.7900002           19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY51AA      managed   Sonderverfahren 11201071068180    1    0.08                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY520A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYC06A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYD05A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYD51A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYE50A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYF02A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYF31A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYF51A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYM03A      managed   Sonderverfahren 11201071068180    1    0.08                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYM18A      managed   Sonderverfahren 11201071068180    1    0.08                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYMRIA      managed   Sonderverfahren 11201071068180    2    0.16                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYMS1A      managed   Sonderverfahren 11201071068180    1    0.08                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY204A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY303A      managed   Sonderverfahren 11201071068180    4    0.32                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY303A      managed   Sonderverfahren 11201071068180    183  14.639999           19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY306A      managed   Sonderverfahren 11201071068180    4    0.32                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY306A      managed   Sonderverfahren 11201071068180    183  14.639999           19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY53AA      managed   Sonderverfahren 11201071068180    1    0.08                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYC30A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYD04A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYD31A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYE00A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYE07A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYE30A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYF01A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYD03A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYD06A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYM01A      managed   Sonderverfahren 11201071068180    1    0.08                19-Apr    
+BI Layer  buki      JOBS    A30_J_BUKCDTRS      managed   Sonderverfahren 11201071068180    31   2.7900002           19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR114P      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR132P      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR144P      managed   Sonderverfahren 11201071068180    34   2.72                19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR151P      managed   Sonderverfahren 11201071068180    1    0.08                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYF30A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYF50A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYL00A      managed   Sonderverfahren 11201071068180    1    0.08                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYMREA      managed   Sonderverfahren 11201071068180    1    0.08                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYMRHA      managed   Sonderverfahren 11201071068180    2    0.16                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYR01A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+BI Layer  bukp      JOBS    A30_J_BUKCDTRP      managed   Sonderverfahren 11201071068180    30   2.7                 19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2002ALL      managed   Sonderverfahren 11201071068180    123521111.68             19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2002EIN      managed   Sonderverfahren 11201071068180    113  10.17               19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2002EIN      managed   Sonderverfahren 11201071068180    128071152.63             19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2002HKP      managed   Sonderverfahren 11201071068180    31   2.7900002           19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2002TEP      managed   Sonderverfahren 11201071068180    2    0.18                19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2002TEP      managed   Sonderverfahren 11201071068180    61   5.4900002           19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2003AB1      managed   Sonderverfahren 11201071068180    1    0.09                19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2003AB1      managed   Sonderverfahren 11201071068180    12   1.08                19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2003CPB      managed   Sonderverfahren 11201071068180    6    0.54                19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2003CPB      managed   Sonderverfahren 11201071068180    92   8.280001            19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2003NFP      managed   Sonderverfahren 11201071068180    31   2.7900002           19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2003V03      managed   Sonderverfahren 11201071068180    34   3.0600002           19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2003V06      managed   Sonderverfahren 11201071068180    32   2.88                19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2004RM2      managed   Sonderverfahren 11201071068180    10   0.90000004          19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2004RT1      managed   Sonderverfahren 11201071068180    930  83.700005           19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2002CPI      managed   Sonderverfahren 11201071068180    31   2.7900002           19-Apr    
+AZ France azf1bip   JOBS    A30_J_AOFR151P      managed   Sonderverfahren 11201071068180    30   2.3999999           19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY000A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY00FA      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY031A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY032A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY102A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY103A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY110A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY251A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY301A      managed   Sonderverfahren 11201071068180    4    0.32                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY301A      managed   Sonderverfahren 11201071068180    183  14.639999           19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY510A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY52AA      managed   Sonderverfahren 11201071068180    1    0.08                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY600A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY720A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYC31A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYD52A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYE01A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYE03A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2002CPI      managed   Sonderverfahren 11201071068180    31   2.7900002           19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2002CPP      managed   Sonderverfahren 11201071068180    30   2.7                 19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2002CPP      managed   Sonderverfahren 11201071068180    30   2.7                 19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2002CPP      managed   Sonderverfahren 11201071068180    30   2.7                 19-Apr    
+AZ Beneluxazbnlp    JOBS    A30_J_BNGDWTPF      managed   Sonderverfahren 11201071068180    19   1.52                19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2002CPP      managed   Sonderverfahren 11201071068180    30   2.7                 19-Apr    
+AZ Beneluxazbngbp   JOBS    A30_J_BNGDWDLP      managed   Sonderverfahren 11201071068180    3    0.24                19-Apr    
+AZ Beneluxazbngbp   JOBS    A30_J_BNGDWDLP      managed   Sonderverfahren 11201071068180    18   1.4399999           19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2002CPI      managed   Sonderverfahren 11201071068180    31   2.7900002           19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYF52A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYG52A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYK00A      managed   Sonderverfahren 11201071068180    1    0.08                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYM60A      managed   Sonderverfahren 11201071068180    1    0.08                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYMS3A      managed   Sonderverfahren 11201071068180    15   1.1999999           19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYR00A      managed   Sonderverfahren 11201071068180    1    0.08                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYR00A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYS01A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2003CPV      managed   Sonderverfahren 11201071068180    6    0.54                19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2003CPV      managed   Sonderverfahren 11201071068180    94   8.46                19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2003P78      managed   Sonderverfahren 11201071068180    78   7.0200005           19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2003RGP      managed   Sonderverfahren 11201071068180    31   2.7900002           19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2003V01      managed   Sonderverfahren 11201071068180    1    0.09                19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2003V01      managed   Sonderverfahren 11201071068180    30   2.7                 19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2003V02      managed   Sonderverfahren 11201071068180    34   3.0600002           19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY304A      managed   Sonderverfahren 11201071068180    183  14.639999           19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY307A      managed   Sonderverfahren 11201071068180    4    0.32                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY307A      managed   Sonderverfahren 11201071068180    183  14.639999           19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPY500A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      kpiprop   JOBS    A30_J_ARPY5AAA      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYC02A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYD01A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYE05A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYE52A      managed   Sonderverfahren 11201071068180    32   2.56                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYM02A      managed   Sonderverfahren 11201071068180    1    0.08                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYMRDA      managed   Sonderverfahren 11201071068180    1    0.08                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYMRFA      managed   Sonderverfahren 11201071068180    1    0.08                19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2002MP1      managed   Sonderverfahren 11201071068180    126381137.42             19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2003B01      managed   Sonderverfahren 11201071068180    3    0.27                19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2003B01      managed   Sonderverfahren 11201071068180    29   2.6100001           19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2003PXX      managed   Sonderverfahren 11201071068180    34   3.0600002           19-Apr    
+RMDB      rmdbd     JOBS    A30_J_ARPYT00A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+RMDB      rmdbd     JOBS    A30_J_ARPYT01A      managed   Sonderverfahren 11201071068180    31   2.48                19-Apr    
+AZ RE     bireruni  JOBS    A30_J_ALEF8707      managed   Sonderverfahren 11201071068180    31   3.1000001           19-Apr    
+AZ RE     bireruni  JOBS    A30_J_BWIP8707      managed   Sonderverfahren 11201071068180    1    0.1                 19-Apr    
+AZ RE     bireruni  JOBS    A30_J_BWIP8707      managed   Sonderverfahren 11201071068180    30   3.0                 19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2002CPI      managed   Sonderverfahren 11201071068180    31   2.7900002           19-Apr    
+AZ RE     bireruni  JOBS    A30_J_BMET8707      managed   Sonderverfahren 11201071068180    31   3.1000001           19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2002CPP      managed   Sonderverfahren 11201071068180    30   2.7                 19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2002CPP      managed   Sonderverfahren 11201071068180    30   2.7                 19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2002CPI      managed   Sonderverfahren 11201071068180    31   2.7900002           19-Apr    
+AZ RE     bireruni  JOBS    A30_J_WEBI8707      managed   Sonderverfahren 11201071068180    1    0.1                 19-Apr    
+AZ RE     bireruni  JOBS    A30_J_WEBI8707      managed   Sonderverfahren 11201071068180    29   2.9                 19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYMRBA      managed   Sonderverfahren 11201071068180    2    0.16                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYMRGA      managed   Sonderverfahren 11201071068180    1    0.08                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYS07A      managed   Sonderverfahren 11201071068180    14   1.12                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYS07A      managed   Sonderverfahren 11201071068180    710  56.8                19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2002UZ0      managed   Sonderverfahren 11201071068180    206541858.8601           19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2004LOA      managed   Sonderverfahren 11201071068180    210  18.900002           19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2004RW2      managed   Sonderverfahren 11201071068180    60   5.4                 19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2007L01      managed   Sonderverfahren 11201071068180    29   2.6100001           19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2007B02      managed   Sonderverfahren 11201071068180    29   2.6100001           19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYS03A      managed   Sonderverfahren 11201071068180    62   4.96                19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2003V07      managed   Sonderverfahren 11201071068180    33   2.97                19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2003V21      managed   Sonderverfahren 11201071068180    33   2.97                19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2004RM3      managed   Sonderverfahren 11201071068180    10   0.90000004          19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2004SEL      managed   Sonderverfahren 11201071068180    210  18.900002           19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2007B03      managed   Sonderverfahren 11201071068180    29   2.6100001           19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2002CPP      managed   Sonderverfahren 11201071068180    30   2.7                 19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2002MP2      managed   Sonderverfahren 11201071068180    21   1.8900001           19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2003I01      managed   Sonderverfahren 11201071068180    21   1.8900001           19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2003V04      managed   Sonderverfahren 11201071068180    35   3.15                19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2003V25      managed   Sonderverfahren 11201071068180    33   2.97                19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2004RW1      managed   Sonderverfahren 11201071068180    180  16.2                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYM00A      managed   Sonderverfahren 11201071068180    1    0.08                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYMR2A      managed   Sonderverfahren 11201071068180    1    0.08                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYMRAA      managed   Sonderverfahren 11201071068180    2    0.16                19-Apr    
+RMDB      rmdbp     JOBS    A30_J_ARPYSN0A      managed   Sonderverfahren 11201071068180    33   2.6399999           19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2002MV0      managed   Sonderverfahren 11201071068180    123521111.68             19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2002WAP      managed   Sonderverfahren 11201071068180    1    0.09                19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2002WAP      managed   Sonderverfahren 11201071068180    31   2.7900002           19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2003P72      managed   Sonderverfahren 11201071068180    33   2.97                19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2003SDB      managed   Sonderverfahren 11201071068180    31   2.7900002           19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2003V05      managed   Sonderverfahren 11201071068180    32   2.88                19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2003V09      managed   Sonderverfahren 11201071068180    33   2.97                19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2004RT3      managed   Sonderverfahren 11201071068180    31   2.7900002           19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2004UZ0      managed   Sonderverfahren 11201071068180    62   5.5800004           19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2007B01      managed   Sonderverfahren 11201071068180    29   2.6100001           19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2007C01      managed   Sonderverfahren 11201071068180    29   2.6100001           19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2003CPA      managed   Sonderverfahren 11201071068180    3    0.27                19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2003CPA      managed   Sonderverfahren 11201071068180    99   8.910001            19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2003HZP      managed   Sonderverfahren 11201071068180    31   2.7900002           19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2003SBI      managed   Sonderverfahren 11201071068180    68   6.1200004           19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2004IMP      managed   Sonderverfahren 11201071068180    6    0.54                19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2004IMP      managed   Sonderverfahren 11201071068180    58   5.2200003           19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2004RM1      managed   Sonderverfahren 11201071068180    10   0.90000004          19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2002CPP      managed   Sonderverfahren 11201071068180    30   2.7                 19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2002CPI      managed   Sonderverfahren 11201071068180    31   2.7900002           19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2002CPI      managed   Sonderverfahren 11201071068180    31   2.7900002           19-Apr    
+BI Layer  bilayeri  JOBS    A30_J_P2002CPI      managed   Sonderverfahren 11201071068180    31   2.7900002           19-Apr    
+BI Layer  bilayerp  JOBS    A30_J_P2002CPP      managed   Sonderverfahren 11201071068180    30   2.7                 19-Apr    

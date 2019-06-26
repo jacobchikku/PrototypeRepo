@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+ <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+ <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/r/dt/dt-1.10.9/datatables.min.css"/>
+ <script type="text/javascript" src="https://cdn.datatables.net/r/dt/dt-1.10.9/datatables.min.js"></script>
+ <title> Allianz Recharge Service Details </title>
+</head>
+<body>
+ <div class="container" style="padding:10px 20px">
+   <h1>Allianz Recharge Service Details</h1>
+   <div id="header"></div>
+   <table id="photos" class="display" cellspacing="0" width="100%">
+       <thead>
+           <tr>
+               <th style="width:140px">System</th>
+               <th>Platform</th>
+               <th>Object Name</th>
+               <th>Object Type</th>
+               <th>Debtor Consolidated</th>
+               <th>Costcentre Consolidated</th>
+               <th>Hostname Consolidated</th>
+               <th>Quantity</th>
+               <th>Status</th>
+               <th>Month</th>
+               <th>Cost (in Euro)</th>
+           </tr>
+       </thead>
+       
+   </table>
+   <div id="footer"></div>
+ </div>
+ <form id ='btnforms'>
+     <div id="div-btn" class="container" style="padding:10px 20px;">
+         <input type="button" value="Generate SAP Input" onclick="generateSap()">
+     </div>
+     <div id="div-flag" class="container" style="padding:10px 20px;">
+
+         <input type="button" onclick="alert('Ticket raised with Support team for the flaged item');" value="Flag This item">
+     </div>
+
+ </form>
+</body>
+</html>
+<script type="text/javascript">
+ function generateSap(){
+    $.ajax({
+                url: "http://localhost:8080/api/sap",
+               async: true,
+               dataType: 'json',
+               success: function (data) {
+                  // JSON.parse (data);
+               }
+           });
+ }
+ $(document).ready(function(){
+
+ let params = (new URL(document.location)).searchParams;
+   let strOe = params.get("oe");
+
+   $('#header').load('../header-ads.html');
+   $('#footer').load('../footer-ads.html');
+   
+   var arrayReturn = [];
+           $.ajax({
+                url: "http://localhost:8080/api/customer/"+strOe,
+               //url: "http://ergast.com/api/f1/2004/1/results.json",
+               async: true,
+               dataType: 'json',               
+               success: function (data) {
+                  // JSON.parse (data);
+                console.log(data.length);
+                   for (var i = 0, len = data.length; i < len; i++) {
+                       var desc = data[i].body;
+                       console.log(desc);
+                       arrayReturn.push([ '<input type=radio> '+ data[i].system,
+                       //data[i].agent,
+                       data[i].platform,
+                        data[i].objektName,data[i].objektType,
+                        data[i].debtorKonsolidated,
+                        data[i].costCentreKonsolidated,
+                        data[i].hostNameKonsolidated,
+                        data[i].quantity,
+                        data[i].status,
+                        data[i].month,
+                        data[i].cost
+                        ]);
+
+                   }
+               inittable(arrayReturn);
+               }
+           });
+   function inittable(data) {	
+       //console.log(data);
+       $('#photos').DataTable( {
+           "aaData": data,
+           "dataSrc": function ( json ) {
+               console.log(json);
+             for ( var i=0, ien=json.data.length ; i<ien ; i++ ) {
+               json.data[i][0] = '<a href="/message/'+json.data[i][0]+'>View message</a>';
+             }
+             return json.data;
+           }
+       } );
+   }
+ });
+
+ let params = (new URL(document.location)).searchParams;
+let strOe = params.get("oe");
+strOe=strOe.trim()
+
+ var menu = document.getElementById('div-btn');
+
+   if (strOe != 'Admin' ) {
+     menu.style.display = 'none';
+   }
+   else
+   {
+    menu.style.display = 'block';
+   }
+
+
+
+
+ var menu = document.getElementById('div-btn');
+ var flag= document.getElementById('div-flag');
+
+   if (strOe != 'Admin' ) {
+     menu.style.display = 'none';
+     flag.style.display = 'block';
+   }
+   else
+   {
+    flag.style.display = 'none';
+    menu.style.display = 'block';
+   }
+</script>
